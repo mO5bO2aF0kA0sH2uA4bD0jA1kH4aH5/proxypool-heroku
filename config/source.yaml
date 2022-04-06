@@ -1,25 +1,3 @@
-# 网页模糊抓取
-- type: webfuzz
-  options:
-    url: https://merlinblog.xyz/wiki/freess.html
-    
-# 翻墙党论坛抓取
-- type: web-fanqiangdang
-  options:
-    url: https://shadowsocksr.fanqiangdang.com/
-    
-- type: web-fanqiangdang
-  options:
-    url: https://shadowsocks.fanqiangdang.com/
-    
-- type: web-fanqiangdang
-  options:
-    url: https://v2ray.fanqiangdang.com/
-    
-- type: web-fanqiangdang
-  options:
-    url: https://trojan.fanqiangdang.com/
-
 # clash格式订阅链接
 - type: clash
   options:
