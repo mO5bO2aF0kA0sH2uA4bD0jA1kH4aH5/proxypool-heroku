@@ -6,11 +6,3 @@
 - type: clash
   options:
     url: https://sspool.herokuapp.com/clash/proxies
-    
-- type: clash
-  options:
-    url: https://free.tianxily.tk/clash
-    
-- type: clash
-  options:
-    url: https://fq.lonxin.net/clash/proxies
