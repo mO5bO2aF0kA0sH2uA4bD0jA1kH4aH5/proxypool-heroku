@@ -21,5 +21,10 @@
       "description": "Cloudflare API key.",
       "required": false
     }
-  }
+  },
+  "addons": [
+    {
+      "plan": "heroku-postgresql"
+    }
+  ]
 }
