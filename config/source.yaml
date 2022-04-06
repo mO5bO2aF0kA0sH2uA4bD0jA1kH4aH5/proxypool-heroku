@@ -2,7 +2,3 @@
 - type: clash
   options:
     url: https://proxies.bihai.cf/clash/proxies
-    
-- type: clash
-  options:
-    url: https://sspool.herokuapp.com/clash/proxies
